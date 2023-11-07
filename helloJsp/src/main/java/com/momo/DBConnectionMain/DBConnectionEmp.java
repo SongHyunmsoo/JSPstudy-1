@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class DBConnectionEMP {
+public class DBConnectionEmp {
 
    
    public static void main(String[] args) {
